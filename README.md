@@ -1,4 +1,4 @@
-# Werkzeug 1.3 by Linus Preiss
+# Werkzeug 1.3 by Linus
 ### An epic maintenance tool for Arch/Arch-based distros!
 
 ## Usage
