@@ -11,7 +11,6 @@ You may want to add ’alias werkzeug="sh /path/to/file/werkzeug.sh"’ to your 
 
 
 ## Dependencies
-banner	 1.3.2+
 | Name | Version | Source |
 | --- | --- | --- |
 | banner | 1.3.2+ | https://archlinux.org/packages/community/x86_64/banner/ |
