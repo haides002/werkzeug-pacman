@@ -43,7 +43,7 @@ greeting (){
 	clear
 	echo -e ""
 	banner Werkzeug
-	echo -e " Werkzeug 1.0.1 by Linus Preiss, Licenced under MIT"
+	echo -e " Werkzeug 1.0.1 by Linus"
 }
 
 
