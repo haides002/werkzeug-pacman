@@ -146,8 +146,8 @@ Clean (){
 	echo -e "${CYAN}Done${NC}"
 
 	echo -e ""
-	echo -e "${PURPLE}Clearing cash${NC}"
-	sudo paccache -r
+	echo -e "${PURPLE}Clearing cache${NC}"
+	sudo paccache -rk 1
 	echo -e "n\nn\ny\ny" | yay -Sc
 	echo -e "${CYAN}Done${NC}"
 }
