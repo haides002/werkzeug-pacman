@@ -1,3 +1,5 @@
+**Note**: This tool is no longer developed and not finished. I moved on from Arch to NixOS so i my self am no longer using this.
+
 # Werkzeug 1.3 by Linus
 ### An epic maintenance tool for Arch/Arch-based distros!
 
